@@ -1,1 +1,1 @@
-![Alternative text description](images/gui_snap.png)
+![Alternative text description](gui_snap.png)
