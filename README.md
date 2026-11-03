@@ -1,1 +1,1 @@
-![Uploading image.png…]()
+![Alternative text description](images/gui_snap.png)
